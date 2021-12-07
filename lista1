@@ -1,0 +1,17 @@
+#Lista 1
+#item 1
+print (f' a resposta do item 1 é = {10+5*30}')
+#item 2
+print (f' a resposta do item 2 é = { 5**2 / 15}')
+#item 3
+print (f' a resposta do item 3a é = {2*3*3*5}')
+print (f' a resposta do item 3b é = {2* (1.75)*3*3}')
+#item 4
+print(f' a hipotenusa do item a é {(4**2 + 3**2)**0.5}')
+print (f' a hipotenusa do item b é {(5**2 + 3**2)**(1/2)}')
+#item 5
+print (f' a área do triângulo do item a é { (5.5)*4 / 2}')
+print (f' a área do triângulo do item b é { (3.75) * (1.5) / 2}')
+#item 6
+print (f' a área do trapézio do item a é {((8+3)*4)/2}')
+print (f' se f(x) é 2^3, a derivada de f(x) é {3*2**2}')
