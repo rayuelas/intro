@@ -1,2 +1,3 @@
 # intro
-Introdução ao Python e listas de exercícios
+#Análise de dados pro capítulo 3
+#Usando Python, Pandas, Geopandas e Mathplotlib
